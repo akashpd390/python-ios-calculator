@@ -20,22 +20,24 @@ This is a simple iOS-style calculator implemented in Python using the `customtki
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/akashpd390/python-ios-calculator.git
-   cd python-ios-calculator`` 
+   cd python-ios-calculator
 
 2.  **Install Dependencies:** Make sure you have Python installed on your system. Install the required libraries using the following command:
     
-    bashCopy code
+    ```bash
+    pip install -r requirements.txt
+	```
     
-    `pip install -r requirements.txt` 
-    
-3.  **Run the Calculator:**
+4.  **Run the Calculator:**
         
-    ```python calculator.py```
-
+    ```bash
+    python calculator.py
+	```
      OR
 
-    ```python3 calculator.py```
-    
+    ```bash
+    python3 calculator.py
+ 	```
 
 ## Usage
 
