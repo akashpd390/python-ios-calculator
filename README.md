@@ -11,8 +11,8 @@ This is a simple iOS-style calculator implemented in Python using the `customtki
 
 ## Screenshots
 
-![Alt Light_theme](screenshots\light__theme.png)
-![Alt Dark_theme](screenshots\dark__theme.png)
+![Alt Light_theme](screenshots/light__theme.png)
+![Alt Dark_theme](screenshots/dark__theme.png)
 
 
 ## Installation
