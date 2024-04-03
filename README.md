@@ -29,16 +29,12 @@ This is a simple iOS-style calculator implemented in Python using the `customtki
     `pip install -r requirements.txt` 
     
 3.  **Run the Calculator:**
-    
-    bashCopy code
-    
-    `python calculator.py` 
+        
+    ```python calculator.py```
 
-    FOR LINUX
+     OR
 
-    bashCopy
-
-    `python3 calculator.py`
+    ```python3 calculator.py```
     
 
 ## Usage
